@@ -1,6 +1,8 @@
 import streamlit as st
 from PIL import Image
-import matplotlib.pyplot as plt
+import io
+
+import streamlit as st
 
 # --- CONFIGURATION ---
 st.set_page_config(page_title="Analyse numérique du plan de masse", layout="centered")
